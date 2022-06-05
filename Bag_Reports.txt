@@ -1,0 +1,9 @@
+Структура багрепорта
+
+Заголовок (Summary).
+Проект (Project).
+Компонент приложения (Component).
+Серьезность (Severity).
+Шаги к воспроизведению (Steps to reproduce).
+Результат (Actual Result).
+Ожидаемый результат (Expected Result).
